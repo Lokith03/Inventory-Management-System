@@ -149,4 +149,3 @@ ng serve
 
 
 
-This project showcases strong capabilities in **end-to-end software development**, including **frontend design, backend engineering, database management, cloud deployment, and AI integration**, making it highly relevant for **international full stack developer roles**.
